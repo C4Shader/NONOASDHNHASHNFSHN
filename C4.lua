@@ -113,7 +113,7 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Serpent = {
-        SchemeColor = Color3.fromRGB(0, 255, 166),
+        SchemeColor = Color3.fromRGB(17, 166, 114),
         Background = Color3.fromRGB(16, 16, 16),
         Header = Color3.fromRGB(24, 24, 24),
         TextColor = Color3.fromRGB(255,255,255), 
